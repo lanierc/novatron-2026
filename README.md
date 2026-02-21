@@ -21,7 +21,7 @@ Novatron Robotics is a student-led robotics team focused on engineering excellen
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/novatron-2026.git
+git clone https://github.com/lanierc/novatron-2026.git
 ```
 
 Open the project in your preferred IDE and build according to your competition framework requirements.
